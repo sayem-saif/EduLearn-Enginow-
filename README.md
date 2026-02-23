@@ -188,7 +188,6 @@ MIT
 
 ## Author
 
-Your Name
 Sayed Mohammad Sayem Saif
 ---
 
