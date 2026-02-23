@@ -189,7 +189,7 @@ MIT
 ## Author
 
 Your Name
-
+Sayed Mohammad Sayem Saif
 ---
 
 Built with ❤️ as part of FSD internship project
